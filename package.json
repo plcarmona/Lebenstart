@@ -1,0 +1,23 @@
+{
+  "name": "lebenstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm boostrap --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plcarmona/Lebenstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plcarmona/Lebenstart/issues"
+  },
+  "homepage": "https://github.com/plcarmona/Lebenstart#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {}
+}
